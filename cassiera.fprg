@@ -14,7 +14,7 @@
             <declare name="scontrino" type="Integer" array="False" size=""/>
             <declare name="prodottouno" type="Integer" array="False" size=""/>
             <declare name="pagamento" type="Integer" array="False" size=""/>
-            <assign variable="scontrino" expression="0"/>
+            <assign variable="scontrino" expression="2"/>
             <declare name="risposta" type="String" array="False" size=""/>
             <output expression="&quot;ciao&quot;" newline="True"/>
             <output expression="&quot;quanto costa?&quot;" newline="True"/>
